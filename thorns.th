@@ -58,6 +58,7 @@ CactusBase/Time
 !REPO_BRANCH = $BRANCH
 !CHECKOUT =
 CactusNumerical/MoL
+CactusNumerical/ReflectionSymmetry
 
 # CactusUtils thorns
 !TARGET   = $ARR
