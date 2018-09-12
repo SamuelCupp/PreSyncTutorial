@@ -1,0 +1,18 @@
+# PreSyncTutorial
+Tutorial for the PreSync Update to the Cactus Framework
+
+This repository contains two tutorials in the form of
+jupyter notebooks. IntroTutorial provides an introduction
+to using PreSync. In it, the thorn OldWave is changed
+to use PreSync, and backward compatibility is shown.
+
+SymmetryBCTutorial shows how to change a thorn which
+provides a symmetry BC to use PreSync. While this tutorial
+is not directly useful for most thorns, it provides some
+more specific information on how boundary routines are registered
+with PreSync.
+
+
+In addition to the tutorials, the thornlist presync.th is
+included. This thornlist contains the thorns which have
+been updated to work with PreSync.
